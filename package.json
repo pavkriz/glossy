@@ -18,7 +18,7 @@
         { "name": "zaphod1984", "email": "zaphod84@gmx.de" },
         { "name": "Eric Cornelius", "email": "eric.cornelius@mandiant.com" },
         { "name": "horpto", "email": "_singleton__@hackerdom.ru" },
-        { "name": "Pavel Kriz", "email": "pavkriz" }
+        { "name": "Pavel Kriz", "email": "pavkriz@hkfree.org" }
     ],
     "directories" : {
 	"lib": "./lib",
